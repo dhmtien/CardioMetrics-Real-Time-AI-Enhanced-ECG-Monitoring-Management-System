@@ -15,6 +15,10 @@
 CardioMetrics is a modern health dashboard that combines real-time heart monitoring, historical analytics, alert workflows, and an AI assistant in one interface.
 </p>
 
+<p>
+Author: Dinh Hoan My Tien 
+</p>
+
 </div>
 
 ---
