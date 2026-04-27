@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Firebase",
+			"path": "../../Documents/PlatformIO/Projects/Firebase"
+		}
+	],
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"platformio": true
+		}
+	}
+}
